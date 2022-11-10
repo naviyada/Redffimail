@@ -1,0 +1,45 @@
+2022-11-08 16:59:49,918 - ScenarioOutlineExampleStep.py:[22] - [INFO] - Navigated to Rediffmail Login Page
+2022-11-08 16:59:49,976 - ScenarioOutlineExampleStep.py:[28] - [INFO] - Username Text Validated
+2022-11-08 16:59:50,130 - ScenarioOutlineExampleStep.py:[34] - [INFO] - Username field typed
+2022-11-08 16:59:50,162 - ScenarioOutlineExampleStep.py:[40] - [INFO] - Password Text Validated
+2022-11-08 16:59:50,316 - ScenarioOutlineExampleStep.py:[46] - [INFO] - Password field typed
+2022-11-08 16:59:52,287 - ScenarioOutlineExampleStep.py:[52] - [INFO] - Signin button clicked
+2022-11-08 16:59:58,325 - ScenarioOutlineExampleStep.py:[60] - [INFO] - Write mail text typed
+2022-11-08 16:59:58,422 - ScenarioOutlineExampleStep.py:[66] - [INFO] - Write Mail Clicked
+2022-11-08 17:00:04,661 - ScenarioOutlineExampleStep.py:[74] - [INFO] - To field typed
+2022-11-08 17:00:04,803 - ScenarioOutlineExampleStep.py:[81] - [INFO] - Subject field typed
+2022-11-08 17:00:05,085 - ScenarioOutlineExampleStep.py:[88] - [INFO] - Compose field typed
+2022-11-08 17:00:05,167 - ScenarioOutlineExampleStep.py:[95] - [INFO] - Send Button Clicked
+2022-11-08 17:00:07,064 - ScenarioOutlineExampleStep.py:[102] - [INFO] - Logout link clicked
+2022-11-08 17:00:16,300 - ScenarioOutlineExampleStep.py:[22] - [INFO] - Navigated to Rediffmail Login Page
+2022-11-08 17:00:16,365 - ScenarioOutlineExampleStep.py:[28] - [INFO] - Username Text Validated
+2022-11-08 17:00:16,535 - ScenarioOutlineExampleStep.py:[34] - [INFO] - Username field typed
+2022-11-08 17:00:16,569 - ScenarioOutlineExampleStep.py:[40] - [INFO] - Password Text Validated
+2022-11-08 17:00:16,726 - ScenarioOutlineExampleStep.py:[46] - [INFO] - Password field typed
+2022-11-08 17:00:19,027 - ScenarioOutlineExampleStep.py:[52] - [INFO] - Signin button clicked
+2022-11-08 17:00:25,073 - ScenarioOutlineExampleStep.py:[60] - [INFO] - Write mail text typed
+2022-11-08 17:00:25,178 - ScenarioOutlineExampleStep.py:[66] - [INFO] - Write Mail Clicked
+2022-11-08 17:04:24,124 - ScenarioOutlineExampleStep.py:[22] - [INFO] - Navigated to Rediffmail Login Page
+2022-11-08 17:04:24,172 - ScenarioOutlineExampleStep.py:[28] - [INFO] - Username Text Validated
+2022-11-08 17:04:24,335 - ScenarioOutlineExampleStep.py:[34] - [INFO] - Username field typed
+2022-11-08 17:04:24,365 - ScenarioOutlineExampleStep.py:[40] - [INFO] - Password Text Validated
+2022-11-08 17:04:24,458 - ScenarioOutlineExampleStep.py:[46] - [INFO] - Password field typed
+2022-11-08 17:04:26,102 - ScenarioOutlineExampleStep.py:[52] - [INFO] - Signin button clicked
+2022-11-08 17:04:40,807 - ScenarioOutlineExampleStep.py:[22] - [INFO] - Navigated to Rediffmail Login Page
+2022-11-08 17:04:40,876 - ScenarioOutlineExampleStep.py:[28] - [INFO] - Username Text Validated
+2022-11-08 17:04:41,044 - ScenarioOutlineExampleStep.py:[34] - [INFO] - Username field typed
+2022-11-08 17:04:41,074 - ScenarioOutlineExampleStep.py:[40] - [INFO] - Password Text Validated
+2022-11-08 17:04:41,315 - ScenarioOutlineExampleStep.py:[46] - [INFO] - Password field typed
+2022-11-08 17:04:43,046 - ScenarioOutlineExampleStep.py:[52] - [INFO] - Signin button clicked
+2022-11-08 17:15:05,841 - ScenarioOutlineExampleStep.py:[22] - [INFO] - Navigated to Rediffmail Login Page
+2022-11-08 17:15:15,896 - ScenarioOutlineExampleStep.py:[29] - [INFO] - Username Text Validated
+2022-11-08 17:15:26,057 - ScenarioOutlineExampleStep.py:[37] - [INFO] - Username field typed
+2022-11-08 17:15:36,109 - ScenarioOutlineExampleStep.py:[44] - [INFO] - Password Text Validated
+2022-11-08 17:15:46,247 - ScenarioOutlineExampleStep.py:[51] - [INFO] - Password field typed
+2022-11-08 17:15:58,046 - ScenarioOutlineExampleStep.py:[58] - [INFO] - Signin button clicked
+2022-11-08 17:16:16,541 - ScenarioOutlineExampleStep.py:[22] - [INFO] - Navigated to Rediffmail Login Page
+2022-11-08 17:16:26,591 - ScenarioOutlineExampleStep.py:[29] - [INFO] - Username Text Validated
+2022-11-08 17:16:36,734 - ScenarioOutlineExampleStep.py:[37] - [INFO] - Username field typed
+2022-11-08 17:16:46,777 - ScenarioOutlineExampleStep.py:[44] - [INFO] - Password Text Validated
+2022-11-08 17:16:56,916 - ScenarioOutlineExampleStep.py:[51] - [INFO] - Password field typed
+2022-11-08 17:17:07,448 - ScenarioOutlineExampleStep.py:[58] - [INFO] - Signin button clicked
